@@ -1,0 +1,51 @@
+
+
+html {
+  display: table;
+  margin: auto;
+  
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: 8px;
+  width: 700px;
+  justify-content: center;
+  
+}
+a{
+  color: darkblue;
+}
+img{
+  width: 400px;
+  height: auto;
+}
+table{
+  justify-content: center;
+  }
+.special_search{
+  background-color:#70CCC2;
+  text-align: center;
+
+}
+.special_search td{
+  width: 33%;
+}
+
+
+/* .special_search td{
+   width: 33%; 
+   text-align: center;
+  } */
+
+/* .special_search,form{
+  left: 50%;
+  transform: translate(-50%, -50%);
+  float:relative;
+  text-align:center;
+  display: table;
+}
+.special_search{
+  margin-top: auto;
+} */
