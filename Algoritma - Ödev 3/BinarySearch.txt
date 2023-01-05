@@ -1,0 +1,21 @@
+
+
+
+     [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  
+         Binary-Search-Tree 
+
+                   3            Root 3 veya 6 olarak alınabilir. Burada biz 3 ü seçtik
+                /     \         Root'un sağında 9 u solunda ise 5 i ayraç olarak seçtik 
+               5       9        geri kalanlardan index olarak ortada olan seçeneği seçip 
+              / \      / \      kalanlardan küçüğü soluna ve büyüğü sağına yazdık
+             1   7    0   2     eleman kalmayana kadar bu ayırma işlemine devam ettik
+                  \     \    \
+                   8      6    9    
+ _____________________________________
+                          
+
+
+
+
+
+
